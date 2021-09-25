@@ -1,0 +1,18 @@
+.main-content h2 {
+    border: none;
+    margin-bottom: 0;
+}
+p.date-text {
+    margin: 0 0 10px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(129, 129, 129);
+}
+@media only screen and (min-width:768px) {
+    
+}
+/*---- For desktop (md) -----*/
+@media only screen and (min-width:992px) {
+
+}

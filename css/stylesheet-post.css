@@ -1,0 +1,36 @@
+.post-img {
+    width:100%;
+}
+.img-caption {
+    font-style: italic;
+    background-color: rgb(242,242,242);
+    text-align: center;
+    color: rgb(119,119,119);
+}
+.post-content {
+    padding: 5vw 5vw 3vw 5vw;
+}
+.post-content figure {
+    margin: 15px 10vw;
+}
+p.date-text {
+    margin: 0 0 10px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(129, 129, 129);
+}
+.post-content ul{
+    padding-inline-start: 20px;
+}
+.post-content h1 {
+    font-weight: bold;
+
+}
+.post-content h2 {
+    border: none;
+    padding: 0;
+}
+.post-content h3 {
+    font-weight: normal;
+}
