@@ -37,3 +37,13 @@ p.date-text {
 .main-content h3 {
     font-size: 25px;
 }
+.about-content h3 {
+    font-size: 15px;
+}
+@media only screen and (min-width:768px) {
+    
+}
+/*---- For desktop (md) -----*/
+@media only screen and (min-width:992px) {
+
+}
