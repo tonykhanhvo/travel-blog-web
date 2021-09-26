@@ -162,6 +162,9 @@
 .about-content li {
     margin: 1vw 0 0 0;
 }
+.fb-page, .fb-page iframe[style], .fb-page span {
+    width: 100% !important;
+}
 /*----- For tablet (sm) -----*/
 @media only screen and (min-width:768px) {
     .about-content {
